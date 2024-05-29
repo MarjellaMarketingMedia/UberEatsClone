@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">UberEatsClone</string>
+    <string name="search_hint">Search Marjella Eats</string>
+
+
+    <string name="breakfast">Breakfast</string>
+
+
+    <string name="pick_up">Pick-up</string>
+
+
+
+    <string name="top_10">Top 10 Hottest This Week</string>
+    <string name="today_offers">Today\'s offers</string>
+    <string name="pop_near_you">Popular Near You</string>
+    <string name="in_a_rush">In a Rush</string>
+    <string name="daily_offers">Daily Offers</string>
+    <string name="shops_near_you">Shops Near You</string>
+
+
+
+
+    <string name="McDonald">McDonald\'s®</string>
+    <string name="chicken_licken">Chicken Licken®</string>
+    <string name="mochachos">Mochachos</string>
+    <string name="industry_bakery">Industry Bakery</string>
+    <string name="bryanston_convenience">Bryanston Convenience</string>
+    <string name="mozambik">Mozambik</string>
+    <string name="onaroll">OnARoll</string>
+    <string name="kfc">KFC</string>
+    <string name="starbucks">Starbucks®</string>
+    <string name="krispy_kreme">Krispy Kreme</string>
+    <string name="the_donuttery">The Donuttery</string>
+    <string name="sandtonfuel">SandtonFuel</string>
+    <string name="yassir_express">Yassir Express</string>
+    <string name="pizza_chefs">Pizza Chefs</string>
+
+
+
+    <string name="delivery_fee">R10 Delivery Fee</string>
+    <string name="waiting_time">10–25min</string>
+    <string name="rating">4.5</string>
+
+
+
+    <string name="promo_one">Free Jr King Meal With Burger King®</string>
+    <string name="promo_desc_one">When you spend R200</string>
+    <string name="promo_button_one">Limited time Offer</string>
+
 </resources>

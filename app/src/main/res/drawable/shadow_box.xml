@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Shadow Layer -->
+    <item tools:ignore="StateListReachable">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#66000000"/> <!-- Adjust shadow color and transparency -->
+            android:endColor="@android:color/transparent"
+            android:angle="45"/> <!-- Adjust the angle for the shadow direction -->
+            <corners android:radius="8dp"/> <!-- Adjust corner radius if needed -->
+        </shape>
+    </item>
+
+    <!-- Background Layer -->
+    <item android:right="4dp" android:bottom="4dp"> <!-- Adjust offset to simulate shadow offset -->
+        <shape android:shape="rectangle">
+            <solid android:color="#FF9153"/> <!-- Background color -->
+            <corners android:radius="8dp"/> <!-- Same corner radius as above -->
+        </shape>
+    </item>
+</selector>

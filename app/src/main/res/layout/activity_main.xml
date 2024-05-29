@@ -139,7 +139,8 @@
                             android:textSize="10sp"
                             android:textStyle="bold"
                             android:fontFamily="@font/poppins_semibold"
-                            android:letterSpacing="0.05"/>
+                            android:letterSpacing="0.05"
+                            tools:ignore="SmallSp" />
 
                     </LinearLayout>
 
@@ -496,7 +497,8 @@
                         android:weightSum="5"
                         android:clipToPadding="false"
                         android:clipChildren="false"
-                        android:translationZ="8dp">
+                        android:translationZ="8dp"
+                        tools:ignore="UselessParent">
 
                         <LinearLayout
                             android:layout_width="0dp"
